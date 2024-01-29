@@ -9,7 +9,7 @@ I'm interested in creating **websites**, **apps**, and **other types of software
 
 - Skilled in **Java**
 - Front-end development using **React**, **Vue**, **HTML**, **CSS**, **JavaScript** and **TypeScript**
-- Back-end development using **Express.js** and **MongoDB**
+- Back-end development using **Express.js**, **MariaDB** and **MongoDB**
 - Familiar with version control systems like **Git**
 - Experience with UI/UX design tools like **Figma** and **Affinity Designer**
 - Currently learning Kotlin with Jetpack Compose
