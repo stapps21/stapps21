@@ -27,6 +27,7 @@ I'm interested in creating **websites**, **apps**, and **other types of software
 
 ![Java icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![React icon](https://img.icons8.com/color/48/000000/react-native.png)
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript icon](https://img.icons8.com/color/48/000000/typescript.png)
 ![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png)
