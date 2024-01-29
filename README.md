@@ -8,10 +8,10 @@ I'm interested in creating **websites**, **apps**, and **other types of software
 ## Skills and Experience 🚀
 
 - Skilled in **Java**
-- Front-end development using **React**, **Vue**, **HTML**, **CSS**, **JavaScript** and **TypeScript**
+- Front-end development using **React**, **Vue**, **JavaScript** and **TypeScript**
 - Back-end development using **Express.js**, **MariaDB** and **MongoDB**
 - Familiar with version control systems like **Git**
-- Experience with UI/UX design tools like **Figma** and **Affinity Designer**
+- Experience with UI/UX design in **Figma**
 - Currently learning Kotlin with Jetpack Compose
 
 ## Education 🎓
